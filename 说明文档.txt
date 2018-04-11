@@ -1,0 +1,33 @@
+2014122906 李涛
+
+一、基本要求完成情况（最多20条，每条3分）
+
+1.本网站为 介绍电影《阿甘正传》的网站，包含首页（index.html），电影简介页（introduction.html），男主角页（boy.html），女主角页（girl.html），电影剧照页（photo.html），意见反馈页（feedback.html），样式表文件（a1.css），JavaScript文件（js.js）。
+2.index.html的第50到59行使用了内部样式；index.html、introduction.html、boy.html、girl.html、photo.html、feedback.html统一使用了外部样式a1.css制作导航栏。
+3.photo.html的第8到16行使用了内部JavaScript；feedback.html的第30行、第44行使用了外部JavaScript文件。
+4.introduction.html的第34到80行，使用了教材p54的6.2节表单标签<form>知识点。
+5.introduction.html的第12到22行，使用了教材p99的10.5.2节ID选择器知识点。
+6.a1.css的2到48行，使用了教材p165的13.3节绝对定位知识点。
+7.photo.html的第35到50行，使用了教材p62的7.3节<iframe>知识点。
+8.photo.html的第35到50行，使用了教材p44的5.2节表格的基本标签知识点。
+9.index.html的第8到46行，使用了教材p169的13.4节相对定位知识点。
+10.index.html的第8到46行，使用了教材p107的10.6.2节内部样式表知识点。
+11.index.html的第6行，使用了教材p107的10.6.3节外部样式表知识点。
+12.introduction.html的第25行，使用了教材p107的10.6.1节内嵌样式表知识点。
+13.introduction.html的第24行，使用了教材p101的10.5.3节CLASS选择器知识点。
+14.feedback.html的第46、47行，使用了教材p52的6.3.1节文本域和按钮知识点。
+15.boy.html的第23到25行，使用了教材p40的4.5节锚点链接知识点。
+16.index.html的第52到58行，使用了教材p32的3.3节在网页中使用图片知识点。
+17.a1.css的64到68行，使用了教材p134的12.2节框模型知识点。
+18.photo.html的第48行，使用了教材p46的5.3节单元格的合并的知识点。
+19.photo.html的第45行，使用了教材p38的4.4节文件的链接知识点。
+20.photo.html的第45行，使用了教材p35的4.1节外部链接与内部链接知识点。
+
+二、扩展要求完成情况（最多5条，每条5分）
+1.introduction.html的第16到22行，使用了div嵌套使用来做导航，同时使用了绝对定位以及背景图片，文字竖着排列。
+2.photo.html的第8到16行，使用了JavaScript代码，使iframe的大小根据图片大小进行改变，保持相同。
+3.photo.html的第32到53行，使用了form、table、iframe进行复合布局，达成相册的功能。
+4.feedback.html的第44行，使用JavaScript代码，使用户点击文本框时删除原有字符，鼠标离开时重新显示。
+5.所有html均使用DIV+CSS嵌套布局，使用框模型进行布局。
+
+对课程的意见和建议：老师您真幽默，长得帅不说人还好，有房有车有有妻，简直人生赢家啊。意见没有，对您很满意。
